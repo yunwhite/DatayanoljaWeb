@@ -20,7 +20,14 @@ class Menu extends Component {
     return (
       <ul id="main-menu">
         <li>
-          <a href="/" className="menu">
+          <a
+            href="/main"
+            className="menu"
+            onClick={function (e) {
+              e.preventDefault();
+              this.props.onChangeMode("main");
+            }.bind(this)}
+          >
             데놀랜드 소개
           </a>
           <ul id="sub-menu" className="about-sub">
@@ -90,7 +97,14 @@ class Menu extends Component {
         </li>
 
         <li>
-          <a href="/" className="menu">
+          <a
+            href="/main"
+            className="menu"
+            onClick={function (e) {
+              e.preventDefault();
+              this.props.onChangeMode("main");
+            }.bind(this)}
+          >
             데놀랜드 뉴스레터
           </a>
           <ul id="sub-menu" className="news-sub">
