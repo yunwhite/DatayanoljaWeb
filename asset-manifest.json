@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/DatayanoljaWeb/static/css/main.51b1628d.chunk.css",
-    "main.js": "/DatayanoljaWeb/static/js/main.dd3c7778.chunk.js",
-    "main.js.map": "/DatayanoljaWeb/static/js/main.dd3c7778.chunk.js.map",
+    "main.js": "/DatayanoljaWeb/static/js/main.8b275252.chunk.js",
+    "main.js.map": "/DatayanoljaWeb/static/js/main.8b275252.chunk.js.map",
     "runtime-main.js": "/DatayanoljaWeb/static/js/runtime-main.0391b418.js",
     "runtime-main.js.map": "/DatayanoljaWeb/static/js/runtime-main.0391b418.js.map",
     "static/js/2.20b72fc6.chunk.js": "/DatayanoljaWeb/static/js/2.20b72fc6.chunk.js",
     "static/js/2.20b72fc6.chunk.js.map": "/DatayanoljaWeb/static/js/2.20b72fc6.chunk.js.map",
     "index.html": "/DatayanoljaWeb/index.html",
-    "precache-manifest.c8fff0e98d51cfdecbcd76948cc06a91.js": "/DatayanoljaWeb/precache-manifest.c8fff0e98d51cfdecbcd76948cc06a91.js",
+    "precache-manifest.5bf327a26f93cb2de9af7a14c40cbeef.js": "/DatayanoljaWeb/precache-manifest.5bf327a26f93cb2de9af7a14c40cbeef.js",
     "service-worker.js": "/DatayanoljaWeb/service-worker.js",
     "static/css/main.51b1628d.chunk.css.map": "/DatayanoljaWeb/static/css/main.51b1628d.chunk.css.map",
     "static/js/2.20b72fc6.chunk.js.LICENSE.txt": "/DatayanoljaWeb/static/js/2.20b72fc6.chunk.js.LICENSE.txt",
@@ -31,6 +31,6 @@
     "static/js/runtime-main.0391b418.js",
     "static/js/2.20b72fc6.chunk.js",
     "static/css/main.51b1628d.chunk.css",
-    "static/js/main.dd3c7778.chunk.js"
+    "static/js/main.8b275252.chunk.js"
   ]
 }
