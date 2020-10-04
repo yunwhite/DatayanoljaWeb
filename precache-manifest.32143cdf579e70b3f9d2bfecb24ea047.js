@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b7d824537670fdeb0934bdb050803a07",
+    "revision": "91172feae7c4e630811a2884cc1749ae",
     "url": "/DatayanoljaWeb/index.html"
   },
   {
-    "revision": "7bc3dd36bc1a0b55580a",
-    "url": "/DatayanoljaWeb/static/css/main.135ad795.chunk.css"
+    "revision": "1a17adc65e9547b4ca69",
+    "url": "/DatayanoljaWeb/static/css/main.980645c9.chunk.css"
   },
   {
     "revision": "094c202f94e1db07b3f3",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/DatayanoljaWeb/static/js/2.eb33dec6.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7bc3dd36bc1a0b55580a",
-    "url": "/DatayanoljaWeb/static/js/main.db1d9373.chunk.js"
+    "revision": "1a17adc65e9547b4ca69",
+    "url": "/DatayanoljaWeb/static/js/main.c43b8b73.chunk.js"
   },
   {
     "revision": "8d70aceacb3ddb5dc4c5",
@@ -108,8 +108,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/DatayanoljaWeb/static/media/time_table_m.737cf3bb.png"
   },
   {
-    "revision": "39843a130c07b8b250d86b7537f0bf86",
-    "url": "/DatayanoljaWeb/static/media/title_04.39843a13.png"
+    "revision": "754be0269e46d0656ae6aafafae8b79d",
+    "url": "/DatayanoljaWeb/static/media/title_04.754be026.png"
   },
   {
     "revision": "4d36d226745cdee4717913055384f0e3",

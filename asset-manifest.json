@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/DatayanoljaWeb/static/css/main.135ad795.chunk.css",
-    "main.js": "/DatayanoljaWeb/static/js/main.db1d9373.chunk.js",
-    "main.js.map": "/DatayanoljaWeb/static/js/main.db1d9373.chunk.js.map",
+    "main.css": "/DatayanoljaWeb/static/css/main.980645c9.chunk.css",
+    "main.js": "/DatayanoljaWeb/static/js/main.c43b8b73.chunk.js",
+    "main.js.map": "/DatayanoljaWeb/static/js/main.c43b8b73.chunk.js.map",
     "runtime-main.js": "/DatayanoljaWeb/static/js/runtime-main.0391b418.js",
     "runtime-main.js.map": "/DatayanoljaWeb/static/js/runtime-main.0391b418.js.map",
     "static/js/2.eb33dec6.chunk.js": "/DatayanoljaWeb/static/js/2.eb33dec6.chunk.js",
     "static/js/2.eb33dec6.chunk.js.map": "/DatayanoljaWeb/static/js/2.eb33dec6.chunk.js.map",
     "index.html": "/DatayanoljaWeb/index.html",
-    "precache-manifest.65a0a39e4a82b73c8d5d80ff5231824f.js": "/DatayanoljaWeb/precache-manifest.65a0a39e4a82b73c8d5d80ff5231824f.js",
+    "precache-manifest.32143cdf579e70b3f9d2bfecb24ea047.js": "/DatayanoljaWeb/precache-manifest.32143cdf579e70b3f9d2bfecb24ea047.js",
     "service-worker.js": "/DatayanoljaWeb/service-worker.js",
-    "static/css/main.135ad795.chunk.css.map": "/DatayanoljaWeb/static/css/main.135ad795.chunk.css.map",
+    "static/css/main.980645c9.chunk.css.map": "/DatayanoljaWeb/static/css/main.980645c9.chunk.css.map",
     "static/js/2.eb33dec6.chunk.js.LICENSE.txt": "/DatayanoljaWeb/static/js/2.eb33dec6.chunk.js.LICENSE.txt",
     "static/media/Archieve_img.png": "/DatayanoljaWeb/static/media/Archieve_img.b12bb6be.png",
     "static/media/Coc_img.png": "/DatayanoljaWeb/static/media/Coc_img.b5a6b70f.png",
@@ -26,13 +26,13 @@
     "static/media/sponsor_m.png": "/DatayanoljaWeb/static/media/sponsor_m.cafbff47.png",
     "static/media/time_table.png": "/DatayanoljaWeb/static/media/time_table.0f77af68.png",
     "static/media/time_table_m.png": "/DatayanoljaWeb/static/media/time_table_m.737cf3bb.png",
-    "static/media/title_04.png": "/DatayanoljaWeb/static/media/title_04.39843a13.png",
+    "static/media/title_04.png": "/DatayanoljaWeb/static/media/title_04.754be026.png",
     "static/media/이일섭.png": "/DatayanoljaWeb/static/media/이일섭.4d36d226.png"
   },
   "entrypoints": [
     "static/js/runtime-main.0391b418.js",
     "static/js/2.eb33dec6.chunk.js",
-    "static/css/main.135ad795.chunk.css",
-    "static/js/main.db1d9373.chunk.js"
+    "static/css/main.980645c9.chunk.css",
+    "static/js/main.c43b8b73.chunk.js"
   ]
 }
