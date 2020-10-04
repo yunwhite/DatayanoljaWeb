@@ -2,6 +2,7 @@ import React, { Component } from "react";
 import "./Main.css";
 import mainLogo from "../../img/Main/title_04.png";
 import mainDate from "../../img/Main/date.png";
+import mainDate_m from "../../img/Main/mainDate_m.png";
 import logoImg from "../../img/Main/back_04.png";
 import states from "./aboutus.json";
 
@@ -9,27 +10,19 @@ class Mainlogo extends Component {
   render() {
     return (
       <div className="main-left">
-        <section>
-          <img className="mainLogo" src={mainLogo} alt="웰컴투 데놀랜드" />
-          <br />
-          <img className="mainDate" src={mainDate} alt="2020년 10월 17일" />
-        </section>
-
+        <img className="mainLogo" src={mainLogo} alt="웰컴투 데놀랜드" />
+        <img className="mainDate" src={mainDate} alt="2020년 10월 17일" />
+        <img
+          className="mainDate_m"
+          src={mainDate_m}
+          alt="모바일2020년 10월 17일"
+        />
+        <br />
         <img className="logoImg" src={logoImg} alt="회전목마" />
       </div>
     );
   }
 }
-
-// class BackgroundImg extends Component {
-// render() {
-//     return (
-//     <section>
-//         <img className="logoImg" src={logoImg} />
-//     </section>
-//     );
-// }
-// }
 
 class Aboutus extends Component {
   titleState = states.title;

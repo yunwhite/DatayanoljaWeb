@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/DatayanoljaWeb/static/css/main.51b1628d.chunk.css",
-    "main.js": "/DatayanoljaWeb/static/js/main.77a34692.chunk.js",
-    "main.js.map": "/DatayanoljaWeb/static/js/main.77a34692.chunk.js.map",
+    "main.css": "/DatayanoljaWeb/static/css/main.135ad795.chunk.css",
+    "main.js": "/DatayanoljaWeb/static/js/main.db1d9373.chunk.js",
+    "main.js.map": "/DatayanoljaWeb/static/js/main.db1d9373.chunk.js.map",
     "runtime-main.js": "/DatayanoljaWeb/static/js/runtime-main.0391b418.js",
     "runtime-main.js.map": "/DatayanoljaWeb/static/js/runtime-main.0391b418.js.map",
-    "static/js/2.20b72fc6.chunk.js": "/DatayanoljaWeb/static/js/2.20b72fc6.chunk.js",
-    "static/js/2.20b72fc6.chunk.js.map": "/DatayanoljaWeb/static/js/2.20b72fc6.chunk.js.map",
+    "static/js/2.eb33dec6.chunk.js": "/DatayanoljaWeb/static/js/2.eb33dec6.chunk.js",
+    "static/js/2.eb33dec6.chunk.js.map": "/DatayanoljaWeb/static/js/2.eb33dec6.chunk.js.map",
     "index.html": "/DatayanoljaWeb/index.html",
-    "precache-manifest.9f8e3bda468aa24580996cd328bc906e.js": "/DatayanoljaWeb/precache-manifest.9f8e3bda468aa24580996cd328bc906e.js",
+    "precache-manifest.65a0a39e4a82b73c8d5d80ff5231824f.js": "/DatayanoljaWeb/precache-manifest.65a0a39e4a82b73c8d5d80ff5231824f.js",
     "service-worker.js": "/DatayanoljaWeb/service-worker.js",
-    "static/css/main.51b1628d.chunk.css.map": "/DatayanoljaWeb/static/css/main.51b1628d.chunk.css.map",
-    "static/js/2.20b72fc6.chunk.js.LICENSE.txt": "/DatayanoljaWeb/static/js/2.20b72fc6.chunk.js.LICENSE.txt",
+    "static/css/main.135ad795.chunk.css.map": "/DatayanoljaWeb/static/css/main.135ad795.chunk.css.map",
+    "static/js/2.eb33dec6.chunk.js.LICENSE.txt": "/DatayanoljaWeb/static/js/2.eb33dec6.chunk.js.LICENSE.txt",
     "static/media/Archieve_img.png": "/DatayanoljaWeb/static/media/Archieve_img.b12bb6be.png",
     "static/media/Coc_img.png": "/DatayanoljaWeb/static/media/Coc_img.b5a6b70f.png",
     "static/media/Concept.png": "/DatayanoljaWeb/static/media/Concept.2d94377f.png",
@@ -21,16 +21,18 @@
     "static/media/guide_02.png": "/DatayanoljaWeb/static/media/guide_02.bcdb01c2.png",
     "static/media/guide_03.png": "/DatayanoljaWeb/static/media/guide_03.7f912275.png",
     "static/media/guide_04.png": "/DatayanoljaWeb/static/media/guide_04.19834ed8.png",
-    "static/media/Main.css": "/DatayanoljaWeb/static/media/instagram.752d4df0.png",
+    "static/media/mainDate_m.png": "/DatayanoljaWeb/static/media/mainDate_m.5c217380.png",
     "static/media/sponsor.png": "/DatayanoljaWeb/static/media/sponsor.63603cdc.png",
+    "static/media/sponsor_m.png": "/DatayanoljaWeb/static/media/sponsor_m.cafbff47.png",
     "static/media/time_table.png": "/DatayanoljaWeb/static/media/time_table.0f77af68.png",
+    "static/media/time_table_m.png": "/DatayanoljaWeb/static/media/time_table_m.737cf3bb.png",
     "static/media/title_04.png": "/DatayanoljaWeb/static/media/title_04.39843a13.png",
     "static/media/이일섭.png": "/DatayanoljaWeb/static/media/이일섭.4d36d226.png"
   },
   "entrypoints": [
     "static/js/runtime-main.0391b418.js",
-    "static/js/2.20b72fc6.chunk.js",
-    "static/css/main.51b1628d.chunk.css",
-    "static/js/main.77a34692.chunk.js"
+    "static/js/2.eb33dec6.chunk.js",
+    "static/css/main.135ad795.chunk.css",
+    "static/js/main.db1d9373.chunk.js"
   ]
 }

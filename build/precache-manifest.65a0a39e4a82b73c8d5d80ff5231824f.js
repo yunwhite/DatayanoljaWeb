@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "187f957aaab2aa53e5f5f74e6384e5d0",
+    "revision": "b7d824537670fdeb0934bdb050803a07",
     "url": "/DatayanoljaWeb/index.html"
   },
   {
-    "revision": "0d8b673929bdc1b655aa",
-    "url": "/DatayanoljaWeb/static/css/main.51b1628d.chunk.css"
+    "revision": "7bc3dd36bc1a0b55580a",
+    "url": "/DatayanoljaWeb/static/css/main.135ad795.chunk.css"
   },
   {
-    "revision": "a5c8f224fe52387334db",
-    "url": "/DatayanoljaWeb/static/js/2.20b72fc6.chunk.js"
+    "revision": "094c202f94e1db07b3f3",
+    "url": "/DatayanoljaWeb/static/js/2.eb33dec6.chunk.js"
   },
   {
     "revision": "f4aac9c965aa45c554c7c1d1e3f69ce3",
-    "url": "/DatayanoljaWeb/static/js/2.20b72fc6.chunk.js.LICENSE.txt"
+    "url": "/DatayanoljaWeb/static/js/2.eb33dec6.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0d8b673929bdc1b655aa",
-    "url": "/DatayanoljaWeb/static/js/main.77a34692.chunk.js"
+    "revision": "7bc3dd36bc1a0b55580a",
+    "url": "/DatayanoljaWeb/static/js/main.db1d9373.chunk.js"
   },
   {
     "revision": "8d70aceacb3ddb5dc4c5",
@@ -88,16 +88,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/DatayanoljaWeb/static/media/guide_04.19834ed8.png"
   },
   {
-    "revision": "752d4df06f719977d11a13a08212a802",
-    "url": "/DatayanoljaWeb/static/media/instagram.752d4df0.png"
+    "revision": "5c217380d558ebef4b96b77276ffdeaf",
+    "url": "/DatayanoljaWeb/static/media/mainDate_m.5c217380.png"
   },
   {
     "revision": "63603cdca0b14d6e1aab8d6bdc303024",
     "url": "/DatayanoljaWeb/static/media/sponsor.63603cdc.png"
   },
   {
+    "revision": "cafbff47eaf8fb8ecf67023342601c93",
+    "url": "/DatayanoljaWeb/static/media/sponsor_m.cafbff47.png"
+  },
+  {
     "revision": "0f77af682b038649ad61d8178f099bd5",
     "url": "/DatayanoljaWeb/static/media/time_table.0f77af68.png"
+  },
+  {
+    "revision": "737cf3bbb72587419db312ff7605fd5b",
+    "url": "/DatayanoljaWeb/static/media/time_table_m.737cf3bb.png"
   },
   {
     "revision": "39843a130c07b8b250d86b7537f0bf86",
